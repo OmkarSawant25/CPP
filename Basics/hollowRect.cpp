@@ -15,9 +15,3 @@ int main()
       cout << endl;
    }
 }
-
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin git@github.com:OmkarSawant25/CPP.git
-// git push -u origin main
