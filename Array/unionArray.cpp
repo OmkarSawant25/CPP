@@ -52,6 +52,7 @@ int main()
     {
         ans.push_back(arr[i]);
     }
+    
     for (int i = 0; i < brr.size(); i++)
     {
         if (brr[i] != INT_MIN)
